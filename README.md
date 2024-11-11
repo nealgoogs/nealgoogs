@@ -1,7 +1,8 @@
 ## Hi, I'm nealgoogs
 I like to code and program in JavaScript, Java, and Python.
 
-Visit my site: [nealgoogs.xyz](https://nealgoogs.xyz)
+Website
+<a href="https://nealgoogs.xyz" target="_blank">nealgoogs.xyz</a>
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nealgoogs&show_icons=true&theme=default)
