@@ -1,4 +1,4 @@
-## Hi, I'm nealgoogs 👋
+## Hi, I'm nealgoogs
 I like to code and program in JavaScript, Java, and Python.
 
 Visit my site: [nealgoogs.xyz](https://nealgoogs.xyz)
