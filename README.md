@@ -7,3 +7,5 @@ I like to code and program in JavaScript, Java, and Python.
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nealgoogs&layout=compact&theme=default)
+
+![hippo]("https://giphy.com/gifs/ySvhFxq6Z4LrbqaikJ")
