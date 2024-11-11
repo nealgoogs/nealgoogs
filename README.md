@@ -1,6 +1,8 @@
 ## Hi, I'm nealgoogs
 I like to code and program in JavaScript, Java, and Python.
 
+
+![Solo Leveling](images/solo_leveling_background.png)
 Visit my site: [nealgoogs.xyz](https://nealgoogs.xyz)
 
 ### GitHub Stats
