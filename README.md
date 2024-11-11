@@ -1,5 +1,3 @@
-# nealgoogs.xyz
-
 ## Hi, I'm nealgoogs 👋
 I like to code and program in JavaScript, Java, and Python.
 
