@@ -9,4 +9,3 @@ I like to code and program in JavaScript, Java, and Python.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nealgoogs&layout=compact&theme=default)
 
 ![hippo](https://giphy.com/gifs/leagueoflegends-jvGRCV7wOiO38GYzea.gif)
-
