@@ -1,5 +1,6 @@
 ## Hi, I'm nealgoogs
 I like to code and program in JavaScript, Java, and Python.
+Got an internship so now learning C# and ASP.NET. LETS GOOOO
 
 
 ### GitHub Stats
